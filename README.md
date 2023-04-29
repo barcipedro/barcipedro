@@ -1,5 +1,5 @@
 <div><br>
-  <img align="center" alt="python" src="img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp&logoColor=white" />
+  <img align="center" alt="python" src="[img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
