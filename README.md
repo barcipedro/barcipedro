@@ -5,7 +5,7 @@ I am a passionate individual with a diverse set of interests ranging from mechan
 ### My Background and Experience
 
 I have always been fascinated with the possibilities of artificial intelligence and have gained a significant amount of experience working with bots that perform actions in Pearl code. During the pandemic, I developed my skills further in Python and built a bot that uses virtual machines to centralize data processing. I am a strong advocate and admirer of technology and its potential to transform the world.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barcipedro)](https://github.com/barcipedro/github-readme-stats)
+
 ### Programming Languages and Technologies
   
  <div><br>
@@ -18,7 +18,8 @@ I have always been fascinated with the possibilities of artificial intelligence 
   <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=dracula"/>
 </div><br/>
   
-![Pedro B stats](https://github-readme-stats.vercel.app/api?username=barcipedro&hide=contribs,prs)
+![Pedro B stats](https://github-readme-stats.vercel.app/api?username=barcipedro&hide=contribs,prs) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barcipedro)](https://github.com/barcipedro/github-readme-stats)
 
 I have experience working with several programming languages, including Java, Pearl, HTML, Matlab, C, and Python. I am always looking to expand my knowledge and skills and am excited about the possibilities of learning and working with new languages and technologies.
 
