@@ -18,7 +18,7 @@ I have always been fascinated with the possibilities of artificial intelligence 
   <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=blue"/>
 </div><br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcipedro&hide=contribs,prs)
+![Pedro B stats](https://github-readme-stats.vercel.app/api?username=barcipedro&hide=contribs,prs)
 
 I have experience working with several programming languages, including Java, Pearl, HTML, Matlab, C, and Python. I am always looking to expand my knowledge and skills and am excited about the possibilities of learning and working with new languages and technologies.
 
