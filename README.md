@@ -15,7 +15,7 @@ I have always been fascinated with the possibilities of artificial intelligence 
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow" />
   <img align="center" alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=magenta" />
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />  
-  <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+  <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=dracula"/>
 </div><br/>
   
 ![Pedro B stats](https://github-readme-stats.vercel.app/api?username=barcipedro&hide=contribs,prs)
