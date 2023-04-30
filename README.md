@@ -1,17 +1,4 @@
-<div><br>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=green" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow" />
-  <img align="center" alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=magenta" />
-  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />  
-  <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=blue"
-</div><br/>
-
-
-
-
-✨<b>Hello, I'm Pedro</b>✨
+✨<b>Hello, I'm Pedro✨ 🔗blockchain enthusiasts , Tecnology & Solving problemas for you in Engenering </b>
 
 I am a passionate individual with a diverse set of interests ranging from mechanical engineering to computer science and AI. My curiosity and love for technology have led me to explore various programming languages and technologies, including security and database management.
 
@@ -21,7 +8,7 @@ I have always been fascinated with the possibilities of artificial intelligence 
 
 ### Programming Languages and Technologies
   
-  <img align="center" alt="🔗 Blockchain" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+ 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=green" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black">
