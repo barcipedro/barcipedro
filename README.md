@@ -1,4 +1,4 @@
-✨<b>Hello, I'm Pedro✨ 🔗blockchain enthusiasts , Tecnology & Solving problemas for you in Engenering </b>
+✨<b>Hello, I'm Pedro✨ 🔗blockchain enthusiasts , Tecnology & Solving problemas for you in Engenering and IT </b>
 
 I am a passionate individual with a diverse set of interests ranging from mechanical engineering to computer science and AI. My curiosity and love for technology have led me to explore various programming languages and technologies, including security and database management.
 
