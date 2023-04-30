@@ -20,6 +20,16 @@ I am a passionate individual with a diverse set of interests ranging from mechan
 I have always been fascinated with the possibilities of artificial intelligence and have gained a significant amount of experience working with bots that perform actions in Pearl code. During the pandemic, I developed my skills further in Python and built a bot that uses virtual machines to centralize data processing. I am a strong advocate and admirer of technology and its potential to transform the world.
 
 ### Programming Languages and Technologies
+  
+  <img align="center" alt='Block-chain src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=green" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow" />
+  <img align="center" alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=magenta" />
+  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />  
+  <img align="center" alt="PostgreeSQL"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=blue"
+</div><br/>
 
 I have experience working with several programming languages, including Java, Pearl, HTML, Matlab, C, and Python. I am always looking to expand my knowledge and skills and am excited about the possibilities of learning and working with new languages and technologies.
 
